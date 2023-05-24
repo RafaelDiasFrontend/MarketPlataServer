@@ -1,0 +1,2 @@
+# MarketPlataServer
+Backend Nest/Postgress
